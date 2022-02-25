@@ -1,4 +1,4 @@
-# eslint-config-apeswap
+# eslint-config-geoswap
 
 ApeSwap Eslint config with:
 
@@ -9,7 +9,7 @@ ApeSwap Eslint config with:
 ## Usage
 
 ```
-npx install-peerdeps --dev @apeswapfinance/eslint-config-apeswap
+npx install-peerdeps --dev @geoswap/eslint-config-geoswap
 ```
 
-Add `"extends": "@apeswapfinance/eslint-config-apeswap"` to your eslint config file.
+Add `"extends": "@geoswap/eslint-config-geoswap"` to your eslint config file.
