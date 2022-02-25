@@ -1,6 +1,6 @@
 # eslint-config-geoswap
 
-ApeSwap Eslint config with:
+GeoSwap Eslint config with:
 
 - Airbnb config
 - Typescript

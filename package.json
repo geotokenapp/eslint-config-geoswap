@@ -1,14 +1,14 @@
 {
-  "name": "@apeswapfinance/eslint-config-apeswap",
+  "name": "@geoswap/eslint-config-geoswap",
   "version": "1.0.0",
-  "description": "Eslint config for ApeSwap",
+  "description": "Eslint config for GeoSwap",
   "main": "lib/index.js",
   "files": [
     "lib"
   ],
-  "repository": "git@github.com:apeswapfinance/eslint-config-apeswap.git",
+  "repository": "git@github.com:geotokenapp/eslint-config-geoswap.git",
   "license": "MIT",
-  "author": "ApeSwapFinance",
+  "author": "GeoSwap",
   "private": false,
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^4.7.0",
